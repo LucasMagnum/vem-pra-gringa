@@ -13,3 +13,5 @@ Como muita gente se cadastrou, criei esse forms que é compartilhado com recruta
 # Dicas
 
 * [Preparação inicial](https://lucasmagnum.medium.com/vempragringa-antes-de-aplicar-para-uma-vaga-982c1adb326d)
+* [Como encontrar uma vaga](https://lucasmagnum.medium.com/vempragringa-como-encontrar-uma-vaga-na-gringa-3388695a3b16)
+* [Deixando seu LinkedIn mais atraente](https://lucasmagnum.medium.com/vempragringa-tapa-no-linkedin-1c6f46db5e0f) 
