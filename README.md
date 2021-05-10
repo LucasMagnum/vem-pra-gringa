@@ -15,3 +15,7 @@ Como muita gente se cadastrou, criei esse forms que é compartilhado com recruta
 * [Preparação inicial](https://lucasmagnum.medium.com/vempragringa-antes-de-aplicar-para-uma-vaga-982c1adb326d)
 * [Como encontrar uma vaga](https://lucasmagnum.medium.com/vempragringa-como-encontrar-uma-vaga-na-gringa-3388695a3b16)
 * [Deixando seu LinkedIn mais atraente](https://lucasmagnum.medium.com/vempragringa-tapa-no-linkedin-1c6f46db5e0f) 
+* [Qual sua pretensão sarial?](https://lucasmagnum.medium.com/vempragringa-qual-sua-pretens%C3%A3o-salarial-798eb6bfa728)
+
+# Experiência
+* [O que não fazer numa etapa final com o Facebook](https://lucasmagnum.medium.com/o-que-n%C3%A3o-fazer-na-etapa-final-de-uma-entrevista-com-o-facebook-1b1822bd87c0)
